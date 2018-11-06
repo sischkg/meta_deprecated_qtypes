@@ -1,4 +1,4 @@
-# RCODE of reponse against Meta, Deprecated QTYPE query.
+# RCODE of response against Meta, Deprecated QTYPE query.
 
 ## Target Authoritative Servers
 
